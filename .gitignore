@@ -7,5 +7,5 @@
 ### VS Code ###
 .vscode/
 
-./backend/target/*
+./backend/target/
 ./frontend/node_modules/
